@@ -1,0 +1,5 @@
+MNIST Recognition by Neural Network
+Model: Convolutional Neural Network CNN
+Test Accuracy: 99.10%
+Training epochs: 5
+Image augmentation: RandomRotation(10)
